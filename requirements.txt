@@ -28,7 +28,7 @@ google-auth==1.35.0
 google-pasta==0.2.0
 grpcio==1.48.2
 h5py==3.1.0
-html5lib==0.9999999
+html5lib==1.1
 idna @ file:///tmp/build/80754af9/idna_1637925883363/work
 idna-ssl @ file:///C:/ci/idna_ssl_1611752657819/work
 importlib-metadata==4.8.3
