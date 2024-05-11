@@ -78,7 +78,7 @@ six @ file:///tmp/build/80754af9/six_1644875935023/work
 sympy==1.9
 tensorboard==1.15.0
 tensorflow==2.6.2
-tensorflow-estimator==2.6.0
+tensorflow-estimator==2.15.0
 tensorflow-io==0.21.0
 tensorflow-io-gcs-filesystem==0.21.0
 termcolor==1.1.0
