@@ -12,7 +12,7 @@ certifi==2021.5.30
 cffi @ file:///C:/ci/cffi_1625831763871/work
 chardet @ file:///C:/ci/chardet_1607706912142/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-clang==5.0
+clang==17.0.6
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 commonmark==0.9.1
 coremltools==7.1
