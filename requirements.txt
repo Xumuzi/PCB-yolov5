@@ -32,7 +32,7 @@ html5lib==0.9999999
 idna @ file:///tmp/build/80754af9/idna_1637925883363/work
 idna-ssl @ file:///C:/ci/idna_ssl_1611752657819/work
 importlib-metadata==4.8.3
-importlib-resources==5.4.0
+importlib-resources==6.4.0
 joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
 keras @ file:///home/ktietz/ci_310/keras_split_1643826818613/work/keras-2.6.0-py2.py3-none-any.whl
 Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
