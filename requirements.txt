@@ -1,0 +1,100 @@
+absl-py @ file:///opt/conda/conda-bld/absl-py_1639803114343/work
+aiohttp @ file:///C:/ci/aiohttp_1632749616620/work
+astunparse==1.6.3
+async-timeout==3.0.1
+attrs==22.2.0
+bleach==1.5.0
+brotlipy==0.7.0
+cached-property==1.5.2
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+cattrs==1.0.0
+certifi==2021.5.30
+cffi @ file:///C:/ci/cffi_1625831763871/work
+chardet @ file:///C:/ci/chardet_1607706912142/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+clang==5.0
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+commonmark==0.9.1
+coremltools==7.1
+coverage @ file:///C:/ci/coverage_1614614921360/work
+cryptography @ file:///C:/ci/cryptography_1635366724772/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Cython @ file:///C:/ci/cython_1626257069493/work
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+enum34==1.1.10
+flatbuffers==1.12
+gast==0.4.0
+google-auth==1.35.0
+google-pasta==0.2.0
+grpcio==1.48.2
+h5py==3.1.0
+html5lib==0.9999999
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+idna-ssl @ file:///C:/ci/idna_ssl_1611752657819/work
+importlib-metadata==4.8.3
+importlib-resources==5.4.0
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+keras @ file:///home/ktietz/ci_310/keras_split_1643826818613/work/keras-2.6.0-py2.py3-none-any.whl
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+Markdown==3.3.7
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mpmath==1.3.0
+multidict @ file:///C:/ci/multidict_1607362067746/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+onnx==1.11.0
+onnx-simplifier==0.4.10
+onnxruntime==1.10.0
+opencv-python==4.6.0.66
+opt-einsum==3.3.0
+packaging==21.3
+pandas @ file:///C:/ci/pandas_1608056614942/work
+Pillow @ file:///C:/ci/pillow_1625670739152/work
+protobuf==3.19.6
+pyaml==23.5.8
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.14.0
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyreadline==2.1
+PySocks @ file:///C:/ci/pysocks_1605305839978/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+PyYAML==5.4.1
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+rich==12.6.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+scikit-learn @ file:///C:/ci/scikit-learn_1622739439730/work
+scipy @ file:///C:/ci/scipy_1597675683670/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sympy==1.9
+tensorboard==1.15.0
+tensorflow==2.6.2
+tensorflow-estimator==2.6.0
+tensorflow-io==0.21.0
+tensorflow-io-gcs-filesystem==0.21.0
+termcolor==1.1.0
+thop @ git+https://github.com/Lyken17/pytorch-OpCounter.git@43c064afb71383501e41eaef9e8c8407265cf77f
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+torch==1.10.1+cu102
+torchaudio==0.10.1+cu102
+torchvision==0.11.2+cu102
+tornado @ file:///C:/ci/tornado_1606942379977/work
+tqdm @ file:///opt/conda/conda-bld/tqdm_1647339053476/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
+webencodings==0.5.1
+Werkzeug @ file:///opt/conda/conda-bld/werkzeug_1645628268370/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306197271/work
+wincertstore==0.2
+wrapt==1.12.1
+yarl @ file:///C:/ci/yarl_1606921989557/work
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
