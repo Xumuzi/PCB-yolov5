@@ -81,7 +81,7 @@ tensorflow==2.6.2
 tensorflow-estimator==2.6.0
 tensorflow-io==0.21.0
 tensorflow-io-gcs-filesystem==0.21.0
-termcolor==1.1.0
+termcolor==2.4.0
 thop @ git+https://github.com/Lyken17/pytorch-OpCounter.git@43c064afb71383501e41eaef9e8c8407265cf77f
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
 torch==1.10.1+cu102
