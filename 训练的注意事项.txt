@@ -1,0 +1,23 @@
+ 
+1、生成的结果文件run\exp.\results.txt中
+epoch      GPU-m  box-loss  obj-loss   cla-loss    tol-loss      label img-size     P            R       map50 map50-95  val-box   val-obj    val-cal
+200/299     6.69G   0.03552   0.01363  0.002932   0.05208        56       640    0.8644    0.8592    0.8604    0.4429   0.03975   0.01027  0.005989
+
+2、tensorboard可视化
+a、定位到run文件夹上一个目录
+b、可以启用不同环境进行可视化，如在pytorch中运行，在tensorflow中可视化
+可视化命令：python -m tensorboard.main --logdir=runs
+
+3、训练300epoch在2070super上花费了2.354hours
+Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100% 
+  all         40        162      0.898      0.837      0.883      0.473
+missing_hole         40         28      0.976          1      0.996      0.649
+mouse_bite         40         42      0.848      0.881      0.933      0.497
+open_circuit         40         24        0.9       0.75      0.884      0.431
+short         40         33      0.957          1      0.992      0.527
+spur         40         24      0.941      0.666      0.816      0.416
+spurious_copper         40         11      0.766      0.727      0.675      0.319
+
+4、检测
+D:\Dataset\PCB_dataset\voc\01_short_02.jpg
+C:\Users\yi\Desktop\yolov5-master\runs\train\exp24\weights\best.pt
