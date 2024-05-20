@@ -49,7 +49,7 @@ numpy @ file:///C:/ci/numpy_and_numpy_base_1603480701039/work
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 onnx==1.11.0
 onnx-simplifier==0.4.10
-onnxruntime==1.10.0
+onnxruntime==1.18.0
 opencv-python==4.6.0.66
 opt-einsum==3.3.0
 packaging==21.3
