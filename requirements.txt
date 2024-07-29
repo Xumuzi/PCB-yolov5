@@ -84,7 +84,7 @@ tensorflow-io-gcs-filesystem==0.21.0
 termcolor==1.1.0
 thop @ git+https://github.com/Lyken17/pytorch-OpCounter.git@43c064afb71383501e41eaef9e8c8407265cf77f
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
-torch==1.10.1+cu102
+torch==2.4.0
 torchaudio==0.10.1+cu102
 torchvision==0.11.2+cu102
 tornado @ file:///C:/ci/tornado_1606942379977/work
